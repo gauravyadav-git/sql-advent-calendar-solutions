@@ -21,25 +21,7 @@ Learn more at: [interviewmaster.ai/advent](https://interviewmaster.ai/advent)
 ## 🏆 Certification
 I have successfully completed the full 24-day challenge. My official certification is available in this repository:
 
-📜 **[View My Certificate: Interview_Master_SQL_Advent_Certificate_Gaurav_Yadav](./Interview_Master_SQL_Advent_Certificate_Gaurav_Yadav)**
+📜 **[View My Certificate: Interview_Master_SQL_Advent_Certificate_Gaurav_Yadav](./Interview_Master_SQL_Advent_Certificate_Gaurav_Yadav.pdf)**
 
 ---
 
-## 📂 Repository Structure
-Each file in this repository corresponds to a day of the challenge. Solutions are written in standard SQL (PostgreSQL compatible).
-
-| Day | Problem Name | Solution Link |
-|:---:|:---|:---:|
-| 01 | Customer Orders | [Day 01](./Day01.sql) |
-| 02 | Monthly Growth | [Day 02](./Day02.sql) |
-| ... | ... | ... |
-| 24 | The Final Boss | [Day 24](./Day24.sql) |
-
----
-
-## 🚀 Getting Started
-To explore these solutions locally:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
